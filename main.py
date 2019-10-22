@@ -1,4 +1,3 @@
-
 import vk_api, time,sys, random
 
 login, password = '', ''
